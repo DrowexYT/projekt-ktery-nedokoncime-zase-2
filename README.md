@@ -1,4 +1,4 @@
 # GeometryDash
-Školní projekt. Napodobenina hry Geometry Dash v Pixi.
+Školní projekt (Nikdy nedoděláme). Napodobenina hry Geometry Dash v Pixi.
 # Jazyky
-HTML, JS, CSS
+HTML, JS
